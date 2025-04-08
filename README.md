@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @EmperorIsaac
-- 👀 I’m interested in hacking facebook and disabling facebook account
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on facebook disabling account
 - 📫 How to reach me +2349023478624
 
 <!---
